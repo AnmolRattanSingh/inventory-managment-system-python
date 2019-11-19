@@ -5,7 +5,7 @@ import tkinter.ttk as ttk
 from PIL import ImageTk,Image
 
 root = Tk()
-root.title("Inventory Management System - CU")
+root.title("Inventory Management System")
 
 
 
